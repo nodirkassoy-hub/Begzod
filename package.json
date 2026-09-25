@@ -1,0 +1,17 @@
+{
+  "name": "balans-ai-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BALANS AI — AI-Powered Business Operating System. Interactive executive product presentation.",
+  "scripts": {
+    "start": "node server.cjs",
+    "dev": "node server.cjs"
+  },
+  "license": "UNLICENSED",
+  "type": "module",
+  "devDependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@fontsource-variable/manrope": "^5.1.0",
+    "jsdom": "^30.1.1"
+  }
+}
